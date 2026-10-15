@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Password Manager (P1) ---
+.idea/
+.env.test
+certs/
+app.log
